@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "module": "NodeNext",
+    "target": "ES2015",
+    "noImplicitAny": false,
+    "sourceMap": true,
+    "outDir": "scripts/",
+    "moduleResolution": "NodeNext"
+  },
+  "exclude": ["node_modules"]
+}
